@@ -4,6 +4,7 @@ Inverted Pendulum Control using PID, LQR and Hybrid Model
 ## PID Control 
 
 PID control was used to stabilize the inverted pendulum in upright position. It was observed that a large amount of force is applied initially. From the graphs it can be seen that the value of x is increasing ie the cart keeps on moving towards right.
+
 ![](https://i.imgur.com/AD1bufn.png)
 
 ![](https://i.imgur.com/8mvxrjP.png)
